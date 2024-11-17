@@ -1,7 +1,7 @@
 # Chest-X-Ray-Classification
 A CNN designed to effectively differentiate between chest X-rays showing normal conditions and those exhibiting indications of pneumonia.
 
-[Project Report](Machine Learning Lab Project Report.pdf)
+Project Report: ([Machine Learning Lab Project Report](https://github.com/ritwikgarg/Chest-X-Ray-Classification/blob/main/Machine%20Learning%20Lab%20Project%20Report.pdf))
 
 Dataset Link : [Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
